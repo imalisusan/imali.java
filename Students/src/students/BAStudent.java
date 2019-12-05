@@ -16,7 +16,7 @@ public class BAStudent extends UniversityStudent
     {
         return this.music;
     }
-    public void setmusic()
+    public void setmusic(double music)
     {
         this.music = music;
     }

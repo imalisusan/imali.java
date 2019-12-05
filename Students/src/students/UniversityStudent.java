@@ -20,7 +20,7 @@ public class UniversityStudent
     {
     return this.id;
     }
-    public void setId()
+    public void setId(int id)
     {
     this.id = id;
     }
@@ -28,7 +28,7 @@ public class UniversityStudent
     {
     return this.name;
     }
-    public void setname()
+    public void setname(String name)
     {
     this.name = name;
     }
@@ -36,7 +36,7 @@ public class UniversityStudent
     {
     return this.age;
     }
-    public void setAge()
+    public void setAge(int age)
     {
     this.age = age;
     }
